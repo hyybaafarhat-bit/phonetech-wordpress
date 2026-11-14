@@ -8,23 +8,16 @@ Projet du module Développement Full Stack et Microservices (ISET Tozeur, AU 202
 Site hébergé sur la VM Ubuntu : http://192.168.223.133/phonetech
 
 ### Accueil
-![Accueil](captures/01-accueil.png)
+![Accueil](01-accueil.png.jpeg)
 
 ### Catalogue
-![Catalogue](captures/02-catalogue.png)
+![Catalogue](02-catalogue.png.jpeg)
 
 ### À propos
-![À propos](captures/03-a-propos.png)
-
-### Blog
-![Blog](captures/04-blog.png)
+![À propos](03-a-propos.jpeg)
 
 ### Contact
-![Contact](captures/05-contact.png)
-
-### Administration WordPress
-![Admin](captures/06-admin.png)
-
+![Contact](05-contact.jpeg)
 ## 1. Présentation
 
 Site vitrine d'une boutique d'accessoires pour téléphones, réalisé avec WordPress et hébergé sur un serveur Ubuntu (machine virtuelle VMware).
